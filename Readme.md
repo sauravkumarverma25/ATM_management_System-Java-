@@ -13,4 +13,7 @@
 
 ### 1. Home Page
 ![image](https://github.com/sauravkumarverma25/ATM_management_System-Java-/blob/main/img/atm_login.png)
+![image](https://github.com/sauravkumarverma25/ATM_management_System-Java-/blob/main/img/atm_home_page.png)
+![image](https://github.com/sauravkumarverma25/ATM_management_System-Java-/blob/main/img/atm_admin.png)
+![image](https://github.com/sauravkumarverma25/ATM_management_System-Java-/blob/main/img/user_asscess.png)
 
